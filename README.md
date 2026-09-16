@@ -7,8 +7,6 @@ La idea de este repositorio es documentar mi progreso, practicar algoritmos
 y estructuras de datos, y mantener organizadas las soluciones a los problemas
 que voy resolviendo.
 
----
-
 ## Contenido
 
 Actualmente, el repositorio contiene ejercicios relacionados con:
