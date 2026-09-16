@@ -5,7 +5,7 @@ long long pref[200005];
 
 int main(){
     int n,q;
-    cout<<"Cantidad de números: "; cin>>n;
+    cout<<"Cantidad de numeros: "; cin>>n;
     cout<<"Cantidad de consultas: "; cin>>q;
 
     pref[0]= 0;

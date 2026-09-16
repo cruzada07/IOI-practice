@@ -1,0 +1,7 @@
+# Compilados de C++
+*.exe
+*.o
+*.out
+
+# Configuración local de VS Code
+.vscode/
